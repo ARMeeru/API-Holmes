@@ -1,0 +1,11 @@
+{
+    "api_info": {
+        "url": "https://api.ipify.org/?format=json",
+        "method": "GET",
+        "headers": {},
+        "request_body": {},
+        "sample_response": {
+                "ip": "10X.87.2X2.X14"
+            }
+    }
+}
