@@ -22,6 +22,6 @@ Provide your JSON path accordingly.
 # Conclusion
 This is an attempt at my ongoing golang learning phase. I am eternally grateful to @Anondo
 
-Feel free to criticize, and suggest in the [Issues](https://github.com/ARMeeru/compareAPIresponse/issues) tab.
+Feel free to criticize, and suggest in the [Discussions](https://github.com/ARMeeru/compareAPIresponse/discussions) tab.
 
 Licensed under [MIT License](https://github.com/ARMeeru/compareAPIresponse/blob/main/LICENSE)
