@@ -1,4 +1,4 @@
-# Compare API Response
+# API Holmes
 A simple go program comparing sample response and actual response in bytes. Simply run the binary followed by config JSON path and that's it!
 
     ./compareAPIresponse test.json
