@@ -1,3 +1,5 @@
+> **Archived (September 2026).** A 102-line Go learning exercise from 2022: it replays a configured request and compares the response to a saved sample by byte equality, which breaks on any key reorder. Contract testing is a solved problem; schemathesis and friends do it properly.
+
 # API Holmes
 A simple go program comparing sample response and actual response in bytes. Simply run the binary followed by config JSON path and that's it!
 
